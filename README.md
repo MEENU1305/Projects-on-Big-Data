@@ -30,7 +30,7 @@ This project covers foundational and applied aspects of Big Data including:
 - Setup of Cloudera Quickstart Virtual Machine
 - Creating shared folders between Windows and Linux
 
-### 2. 🧮 MapReduce Programs
+### 2. MapReduce Programs
 - Word Count
 - Matrix Multiplication
 
