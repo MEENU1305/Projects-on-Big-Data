@@ -23,9 +23,9 @@ This project covers foundational and applied aspects of Big Data including:
 - Linux (Ubuntu)
 - VirtualBox / VMware
 
-## 📂 Contents
+##  Contents
 
-### 1. 🔧 Environment Setup
+### 1.  Environment Setup
 - Installation of Apache Hadoop on Windows 11
 - Setup of Cloudera Quickstart Virtual Machine
 - Creating shared folders between Windows and Linux
