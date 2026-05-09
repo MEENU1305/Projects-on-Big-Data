@@ -34,7 +34,7 @@ This project covers foundational and applied aspects of Big Data including:
 - Word Count
 - Matrix Multiplication
 
-### 3. 🐷 Apache Pig
+### 3.  Apache Pig
 - Word Count using Pig
 - Analysis of:
   - Drivers & Timesheet Dataset
@@ -58,7 +58,7 @@ This project covers foundational and applied aspects of Big Data including:
 
 ## Credits
 
-👩‍🏫 **Mentors:**  
+ **Mentors:**  
 - Dr. R.K. Singla  
 - Prof. Vishali
 
