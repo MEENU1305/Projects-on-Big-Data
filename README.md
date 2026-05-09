@@ -2,7 +2,7 @@
 
 This repository contains my practical work completed during the **2nd semester of M.Sc. Computer Science (Honours)** with a **specialization in Data Science**. Under the mentorship of **Dr. R.K. Singla** and **Prof. Vishali**, I explored various tools and technologies within the Big Data ecosystem.
 
-## 📘 Project Overview
+## Project Overview
 
 This project covers foundational and applied aspects of Big Data including:
 
@@ -13,7 +13,7 @@ This project covers foundational and applied aspects of Big Data including:
 - **Apache Hive querying**
 - **Environment setup on Windows and Linux**
 
-## 🛠️ Tools & Technologies Used
+##  Tools & Technologies Used
 
 - Apache Hadoop
 - Cloudera Quickstart VM
@@ -42,29 +42,29 @@ This project covers foundational and applied aspects of Big Data including:
   - IPL Dataset
   - Employee Dataset
 
-### 4. 🐝 Apache Hive
+### 4. Apache Hive
 - Word Count using Hive
 - HiveQL queries for:
   - Employee Data
   - IPL Data
   - Online Social Network Data
 
-## 📚 What I Learned
+##  What I Learned
 
 - Understanding of Big Data architecture and processing workflows
 - Hands-on experience with HDFS, Pig Latin, HiveQL, and MapReduce
 - Installation and configuration of Big Data tools on local machines
 - Real-world dataset processing and querying
 
-## 📌 Credits
+## Credits
 
 👩‍🏫 **Mentors:**  
 - Dr. R.K. Singla  
 - Prof. Vishali
 
-📍 Project done as part of **M.Sc. Computer Science (Hons)** - Data Science Specialization
+Project done as part of **M.Sc. Computer Science (Hons)** - Data Science Specialization
 
-## 📄 License
+## License
 
 This project is for educational purposes and is not licensed for commercial use.
 
